@@ -10,10 +10,10 @@ namespace Assignment_1
         private int disHoods;
         private string hoodNames;
 
-        public Districts(string theName, int theHoods, string hoodName)
+        public Districts(string theName, string theHoods, string hoodName)
         {
             disName = theName;
-            disHoods = theHoods;
+            setHoodsNum(theHoods);
             hoodNames = hoodName;
         }
 
