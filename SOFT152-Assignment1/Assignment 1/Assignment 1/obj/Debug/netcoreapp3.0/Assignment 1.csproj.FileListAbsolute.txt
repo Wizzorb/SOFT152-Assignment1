@@ -1,0 +1,11 @@
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp3.0\Assignment 1.exe
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp3.0\Assignment 1.deps.json
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp3.0\Assignment 1.runtimeconfig.json
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp3.0\Assignment 1.runtimeconfig.dev.json
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp3.0\Assignment 1.dll
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\bin\Debug\netcoreapp3.0\Assignment 1.pdb
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp3.0\Assignment 1.csprojAssemblyReference.cache
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp3.0\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp3.0\Assignment 1.AssemblyInfo.cs
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp3.0\Assignment 1.dll
+C:\Users\inkbl\OneDrive\Desktop\Year 1\Assignments\SOFT152 Assignment 1\Assignment 1\Assignment 1\obj\Debug\netcoreapp3.0\Assignment 1.pdb
