@@ -1,0 +1,9 @@
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\bin\Debug\SOFTAssignment.exe.config
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\bin\Debug\SOFTAssignment.exe
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\bin\Debug\SOFTAssignment.pdb
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\obj\Debug\SOFTAssignment.csprojAssemblyReference.cache
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\obj\Debug\SOFTAssignment.Properties.Resources.resources
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\obj\Debug\SOFTAssignment.csproj.GenerateResource.cache
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\obj\Debug\SOFTAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\obj\Debug\SOFTAssignment.exe
+C:\Users\jdharrison\source\repos\SOFTAssignment\SOFTAssignment\obj\Debug\SOFTAssignment.pdb
